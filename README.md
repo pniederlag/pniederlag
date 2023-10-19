@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently: 
-    - managing [kubernetes](https://kubernetes.io/) on [Azure](https://azure.microsoft.com/ "Miccrosoft Azure") and [Hetzner Cloud](https://www.hetzner.com/de/cloud "Hetzner Cloud")
-    - with Infrastructure as Code (IaC) by [terraform](https://www.terraform.io "Hashicorp Terraform")
-    - operating many different customer applications based on Java, Ruby, Php and Python
-    - by using [Jenkins](https://www.jenkins.io/) and Azure Devops Continuos Integration/Deployment
+    - Creating [kubernetes-clusters](https://kubernetes.io/) on [Azure](https://azure.microsoft.com/ "Miccrosoft Azure") and [Hetzner Cloud](https://www.hetzner.com/de/cloud "Hetzner Cloud") with Infrastructure as Code (IaC) by [terraform](https://www.terraform.io "Hashicorp Terraform")
+    - Deploying and Managing [kubernetes](https://kubernetes.io/)-Workloads with gitops by [FluxCD](https://fluxcd.io/)
+    - Build many different customer applications based on Java, Ruby, Php and Python by using [Jenkins](https://www.jenkins.io/) and Azure Devops Continuos Integration/Deployment
 - 🌱 I like 
     - [TYPO3 CMS](https://typo3.com "TYPO3 GmbH") as Content-Management-System (CMS)
     - [Odoo](https://www.odoo.com/ "Odoo ERP, Community-Edition") for Enterprise-Resource-Planning (ERP)
@@ -33,4 +32,5 @@ Here are some ideas to get you started:
     - try to look around and learn
     - be open, constructive and helpful to others
     - get the job done by tackling it
+    - if you struggle, stop and juggle
 - ⚡ Fun fact: I am playing accordion with http://zoff.band/
