@@ -33,4 +33,4 @@ Here are some ideas to get you started:
     - be open, constructive and helpful to others
     - get the job done by tackling it
     - if you struggle, stop and juggle
-- ⚡ Fun fact: I am playing accordion with http://zoff.band/
+- ⚡ Fun fact: I am one of the Founders of the famous Coop https://haltestulle.de One of the worlds most beautiful cafes (little bit biased and opinionated I admit) and located in Bielefeld, Germany
