@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently: 
-    - Creating and managing [kubernetes-clusters](https://kubernetes.io/) on [Azure](https://azure.microsoft.com/ "Miccrosoft Azure") [StackIt(https://stackit.com "StackIt") and [Hetzner Cloud](https://www.hetzner.com/de/cloud "Hetzner Cloud") with Infrastructure as Code (IaC) by [terraform](https://www.terraform.io "Hashicorp Terraform")
+    - Creating and managing [kubernetes-clusters](https://kubernetes.io/) on [Azure](https://azure.microsoft.com/ "Miccrosoft Azure") [StackIt](https://stackit.com "StackIt") and [Hetzner Cloud](https://www.hetzner.com/de/cloud "Hetzner Cloud") with Infrastructure as Code (IaC) by [terraform](https://www.terraform.io "Hashicorp Terraform")
     - Deploying and managing [kubernetes](https://kubernetes.io/)-Workloads with gitops by [FluxCD](https://fluxcd.io/)
     - Build many different customer applications based on Java, Ruby, Php and Python by using [Jenkins](https://www.jenkins.io/) and Azure Devops Continuos Integration/Deployment
 - 🌱 I like 
